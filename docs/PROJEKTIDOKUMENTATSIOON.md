@@ -4,11 +4,11 @@
 **Mis asi see on, mida ja miks me teeme? Millist praktilist probleemi see lahendab?**
 
 Näide stiilist:
-- Meie projekti eesmärk on luua ventilaator, mida saab juhtida infrapuna puldiga.
-- Seadet saab kasutada näiteks ruumi jahutamiseks olukorras, kus käega lülitile ulatamine on ebamugav.
-- Peamised komponendid: elektrimootor, servo, ventilaatori labad (3D prinditud), Arduino mikrokontroller.
+- Minu projekti eesmärk on luua "Simon" värvimäng lühimälu treenimiseks
+- Seade annab neljast eri värvi nupust koosneva sisendimustri, mida mängija peab üks ühele järgima et edasi liikuda. Seadel on ka igale värvile vastav kindel heli ning pikemate mängudega esitab see nö laulu
+- Peamised komponendid: Arduino Uno R4 kontoller, 4x nupp, 1 sinine LED, 1 roheline LED, 1 kollane LED, 1 punane LED, Kõlar. 3D prinditud kest, 3D prinditud erivärvilised nupu kestad.
 
-👉 _Asenda see kirjeldus enda seadme kirjeldusega._
+
 
 ---
 
